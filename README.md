@@ -15,3 +15,7 @@
 ```shell
 > yarn test
 ```
+### Run the app
+```shell
+> yarn run nodemon src/server.js
+```
