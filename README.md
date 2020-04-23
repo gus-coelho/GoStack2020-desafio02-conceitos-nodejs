@@ -19,3 +19,5 @@
 ```shell
 > yarn run nodemon src/server.js
 ```
+You'll need some REST Client (e.g. [Insomnia](https://insomnia.rest/)) to test the API routes.
+The server will run on localhost:3333
