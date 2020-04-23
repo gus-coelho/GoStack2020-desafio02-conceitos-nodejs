@@ -6,7 +6,7 @@
 [All Bootcamp Challenges](https://github.com/Rocketseat/bootcamp-gostack-desafios)
 
 ## Instructions
-* Clone the repository
+* Clone this repository
 * Run Yarn
 ```shell
 > yarn
